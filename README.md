@@ -1,2 +1,2 @@
-# agestrategy
+# ageofstrategy
 ageofstrategy
