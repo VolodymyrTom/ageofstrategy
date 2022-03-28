@@ -1,4 +1,4 @@
-# ageofstrategy
+# Ageofstrategy
 
 Age of Strategy: A Never-Before NFT+Blind Box Strategic SLG GameFi
 
@@ -19,7 +19,7 @@ By design, the NFT Heroes in Age of Strategy can not only wear a variety of skil
 
 Age of Strategy runs on a bi-token economy model. AS, the core token, can be used for staking with calculated APY. Players can also use AS to get blind boxes with NFT Heroes, Skills and Weapons, and Level Up Potion and Food. When players build the NFT, half of all AS spent will be directly destroyed, and the other half will enter the reward pool that will later be given back to the players.
 
-# economy
+# Economy
 On the other hand, ASR, the game token, is 100% produced and mainly used in the game. Players can use ASR for staking to collect game props such as the Level Up Potion and Food. Given the consumptive nature of the NFT game props, it attracts players to use ASR for staking and as a result, reduces its amount on the market. Players can use ASR to not only purchase NFT Heroes, Skills, Weapons, and Farms on the NFT trade market, but also exchange for rare blind boxes in the game.
 In comparison with AS, half of all ASR spent will be directly destroyed, and the other half will enter the reward pool which will later be given back to the players, creating deflation and internal recycle of ASR.
 
