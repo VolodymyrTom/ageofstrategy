@@ -16,13 +16,11 @@ The NFT Heroes in Age of Strategy come in different rarity scales: Normal, Rare,
 
 By design, the NFT Heroes in Age of Strategy can not only wear a variety of skills and weapons, but also upgrade to higher levels as the game proceeds. Players are granted the ownership of their game assets. They can earn ASR from the game or sell their NFTs for ASR to join Farms and to buy NFT game props. While driven by the token and NFT rewards, players will also gain the sense of conquering and accomplishment. 
 
-Age of Strategy runs on a bi-token economy model. AS, the core token, can be used for staking with calculated APY. Players can also use AS to get blind boxes with NFT Heroes, Skills and Weapons, and Level Up Potion and Food. When players build the NFT, half of all AS spent will be directly destroyed, and the other half will enter the reward pool that will later be given back to the players.
+# Token Economy
+Age of Strategy runs on a bi-token economic model. AS, the core token, can be used for staking with calculated APY. Players can also use AS to get blind boxes with NFT Heroes, Skills and Weapons, and Level Up Potion and Food. When players build the NFT, half of all AS spent will be directly destroyed, and the other half will enter the reward pool that will later be given back to the players.
 
-# Economy
 On the other hand, ASR, the game token, is 100% produced and mainly used in the game. Players can use ASR for staking to collect game props such as the Level Up Potion and Food. Given the consumptive nature of the NFT game props, it attracts players to use ASR for staking and as a result, reduces its amount on the market. Players can use ASR to not only purchase NFT Heroes, Skills, Weapons, and Farms on the NFT trade market, but also exchange for rare blind boxes in the game.
 In comparison with AS, half of all ASR spent will be directly destroyed, and the other half will enter the reward pool which will later be given back to the players, creating deflation and internal recycle of ASR.
-
-Professionally designed, original gameplay, and great interactions among players. Age of Strategy is going to open a new era of GameFi. Stay tuned for the upcoming launch!
 
 # Technical Framework
 
