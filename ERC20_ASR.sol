@@ -10,7 +10,7 @@ contract ERC20_ASR is Ownable{
 
     string public constant name = "ASR";
     string public constant symbol = "ASR";
-    uint8 public constant decimals = 8;
+    uint8 public constant decimals = 18;
     uint256 public constant totalSupply = 10_000_000_000e8; 
     uint256 internal constant MASK = type(uint256).max;
     
