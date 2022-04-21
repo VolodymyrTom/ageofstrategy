@@ -24,7 +24,7 @@ In comparison with AS, half of all ASR spent will be directly destroyed, and the
 
 # Technical Framework
 
-![1648463284(1)](https://user-images.githubusercontent.com/102289203/160379386-3658cd68-c9c0-4f64-8a37-b9c6e514836b.jpg)
+![5](https://user-images.githubusercontent.com/102289203/164386587-d1a60385-32a2-4641-864a-005b7ecb548a.png)
 
 ***\*Technical Security\****
 
